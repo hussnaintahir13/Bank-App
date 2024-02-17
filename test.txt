@@ -1,0 +1,2 @@
+This file is added just for the sake of test.
+We added it to test the basic git status command and to check git add is working or not
